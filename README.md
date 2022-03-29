@@ -283,18 +283,18 @@ C与Java有哪些区别？
 简述下你的毕业设计；在做毕设过程中，遇到了哪些问题？你如何解决这些问题？
 
 **面试题我有总结过一些，可参考文章**
-[22北邮复试建议]https://www.zhihu.com/question/518549416/answer/2377198179
+[22北邮复试建议](https://www.zhihu.com/question/518549416/answer/2377198179)
 
-[综合面试专业课题库]https://zhuanlan.zhihu.com/p/475519720
+[综合面试专业课题库](https://zhuanlan.zhihu.com/p/475519720)
 
 #### 联系导师
-[联系导师需要需要注意些什么？]https://www.zhihu.com/question/515734321/answer/2350701783
+[联系导师需要需要注意些什么？](https://www.zhihu.com/question/515734321/answer/2350701783)
 
-[计算机学院招生团队介绍]https://zhuanlan.zhihu.com/p/417669419
+[计算机学院招生团队介绍](https://zhuanlan.zhihu.com/p/417669419)
 
-[网络空间安全学院招生团队介绍]https://zhuanlan.zhihu.com/p/420667047
+[网络空间安全学院招生团队介绍](https://zhuanlan.zhihu.com/p/420667047)
 
-[人工智能学院招生团队介绍]https://zhuanlan.zhihu.com/p/422158389
+[人工智能学院招生团队介绍](https://zhuanlan.zhihu.com/p/422158389)
 
 #### 考场行为细节
 从进入腾讯会议视频的那一刻起，复试考试就开始了。进入考场前先找个安静的环境，保持网络通畅。自信一点，双眼平视前方，保持微笑。 
